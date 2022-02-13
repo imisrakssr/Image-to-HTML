@@ -1,0 +1,29 @@
+https://fontawesome.com/
+<link 
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+https://getcssscan.com/css-box-shadow-examples
+
+image to html
+-icon
+-pictures
+-fonts
+
+margin/padding: T R B L
+margin/padding:T L+R  B
+margin/padding: T+B L+R
+margin/padding: T+B+L+R
+
+text design
+-font family
+-font size
+-font weight
+-space
+-color
+
+button design
+-bg color
+-text color
+-padding
+-border
