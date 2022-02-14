@@ -35,6 +35,7 @@ body{
 .menu-row li a:hover{
 	color: #ff6162;
 	transition: 0.5s;
+	cursor: pointer;
 }
 .menu-row ul{
 	display: inline-block;
@@ -56,6 +57,7 @@ body{
 	background-color: #292640;
 	color: white;
 	transition: 0.35s;
+	cursor: pointer;
 }
 /***menu bar design end****/
 /*banner design start*/
@@ -198,6 +200,7 @@ body{
 	background-color: #1affff;
 	color: white;
 	transition: 0.35s;
+	cursor: pointer;
 }
 .thumb img{
 	width: 11%;
