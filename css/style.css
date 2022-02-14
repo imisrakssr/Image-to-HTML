@@ -216,5 +216,8 @@ body{
     background-color: #8c8c8c;
     text-align: center;
 }
-
+.footer-icon a i:hover{
+	background-color: white;
+	color: #1affff;
+}
 /*footer design end*/
