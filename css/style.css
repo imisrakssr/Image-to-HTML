@@ -141,7 +141,7 @@ body{
     margin: -38px auto 160px;
     background-color: #4d4d33;
     height: 80px;
-    width: 2px;
+    width: 3px;
     border-radius: 4px;
 }
 /*grid design start*/
@@ -225,3 +225,94 @@ body{
 	color: #1affff;
 }
 /*footer design end*/
+
+
+
+@media (max-width: 576px){
+.container {
+    width: 90%;
+}
+.menu-row {
+    display: flex;
+    flex-direction: column;
+}
+.menu-row ul {
+    margin: 10px 0;
+}
+.menu-row li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.banner {
+    padding: 0;
+}
+.container-row {
+    display: flex;
+    flex-direction: column;
+}
+.b-left h1 {
+    font-size: 40px;
+    line-height: 1.1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.b-left p {
+    margin-right: 0;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.b-left a i {
+    margin-bottom: 15px;
+}
+.b-right img{
+	width: 100%;
+}
+.project {
+    padding: 20px 0;
+}
+.gallery {
+    display: flex;
+    flex-direction: column;
+}
+.gallery img{
+	width: 90%;
+}
+.line {
+    margin: auto;
+}
+.features{
+	margin-top: 25px;
+}
+.grid-row {
+    display: grid;
+    grid-template-columns: auto;
+}
+.grid {
+    margin-right: 0;
+    padding: 20px 10px;
+}
+.footer h1 {
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.footer-icon a i {
+    margin-bottom: 10px;
+}
+.thumb img {
+    width: 30%;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
